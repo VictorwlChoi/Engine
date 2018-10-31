@@ -28,7 +28,7 @@ Systems
 
 # Building #
 
-Helium is built using [premake5](https://github.com/premake).  Premake interprets lua script and generates platform-specific IDE project files.
+Helium is built using [premake5](https://github.com/premake).  Premake interprets Lua script and generates platform-specific IDE project files.
 
 ## Prerequisites ##
 
